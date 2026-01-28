@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{c67dcdf6-016f-405a-9c64-bf1c979fbc34}</ProjectGuid>
+    <RootNamespace>mced</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>.\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>Default</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>.\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Codes\combinatorics.cpp" />
+    <ClCompile Include="..\Codes\crc.cpp" />
+    <ClCompile Include="..\Codes\dcode.cpp" />
+    <ClCompile Include="..\Codes\factorclasses.cpp" />
+    <ClCompile Include="..\Codes\hadamar_matrix.cpp" />
+    <ClCompile Include="..\Codes\hadamar_matrix_fast.cpp" />
+    <ClCompile Include="..\Codes\matrix_tensor_product.cpp" />
+    <ClCompile Include="..\Codes\permutation.cpp" />
+    <ClCompile Include="..\Codes\rmcode.cpp" />
+    <ClCompile Include="..\Codes\SBitArray.cpp" />
+    <ClCompile Include="..\Codes\sbitsmatrix.cpp" />
+    <ClCompile Include="..\Codes\vectorspacef2.cpp" />
+    <ClCompile Include="..\Crypto\BlockCiphers\Kuznyechik.cpp" />
+    <ClCompile Include="..\Crypto\BlockCiphers\mycrypto.cpp" />
+    <ClCompile Include="..\Crypto\RandomGenerators\ISAAK\sec_rand.cpp" />
+    <ClCompile Include="..\Crypto\RandomGenerators\ISAAK\sec_rand_c.c" />
+    <ClCompile Include="..\Crypto\RandomGenerators\ISAAK\srandomgenerator_isaak.cpp" />
+    <ClCompile Include="..\Crypto\RandomGenerators\OFBGamma\srandomgenerator_ofbgamma.cpp" />
+    <ClCompile Include="..\Crypto\RandomGenerators\srandomgenerator.cpp" />
+    <ClCompile Include="mced.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Codes\combinatorics.h" />
+    <ClInclude Include="..\Codes\crc.h" />
+    <ClInclude Include="..\Codes\dcode.h" />
+    <ClInclude Include="..\Codes\factorclasses.h" />
+    <ClInclude Include="..\Codes\hadamar_matrix.h" />
+    <ClInclude Include="..\Codes\hadamar_matrix_fast.h" />
+    <ClInclude Include="..\Codes\matrix_tensor_product.h" />
+    <ClInclude Include="..\Codes\permutation.h" />
+    <ClInclude Include="..\Codes\rmcode.h" />
+    <ClInclude Include="..\Codes\SBitsArray.h" />
+    <ClInclude Include="..\Codes\sbitsmatrix.h" />
+    <ClInclude Include="..\Codes\vectorspacef2.h" />
+    <ClInclude Include="..\Crypto\BlockCiphers\Kuznyechik.hpp" />
+    <ClInclude Include="..\Crypto\BlockCiphers\modes.hpp" />
+    <ClInclude Include="..\Crypto\BlockCiphers\mycrypto.hpp" />
+    <ClInclude Include="..\Crypto\Hashes\crc16\shash_crc16.h" />
+    <ClInclude Include="..\Crypto\Hashes\crc32\shash_crc32.h" />
+    <ClInclude Include="..\Crypto\Hashes\crc64\shash_crc64.h" />
+    <ClInclude Include="..\Crypto\Hashes\crc8\shash_crc8.h" />
+    <ClInclude Include="..\Crypto\Hashes\shash.h" />
+    <ClInclude Include="..\Crypto\Hashes\Stribog\shash_stribog256.h" />
+    <ClInclude Include="..\Crypto\Hashes\Stribog\shash_stribog512.h" />
+    <ClInclude Include="..\Crypto\Hashes\Stribog\stribog.h" />
+    <ClInclude Include="..\Crypto\Hashes\Stribog\stribog_data.h" />
+    <ClInclude Include="..\Crypto\Hashes\Stribog\types.h" />
+    <ClInclude Include="..\Crypto\RandomGenerators\ISAAK\sec_rand.h" />
+    <ClInclude Include="..\Crypto\RandomGenerators\ISAAK\srandomgenerator_isaak.h" />
+    <ClInclude Include="..\Crypto\RandomGenerators\ISAAK\standard.h" />
+    <ClInclude Include="..\Crypto\RandomGenerators\OFBGamma\srandomgenerator_ofbgamma.h" />
+    <ClInclude Include="..\Crypto\RandomGenerators\srandomgenerator.h" />
+    <ClInclude Include="d_types.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

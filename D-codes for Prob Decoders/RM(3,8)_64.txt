@@ -1,0 +1,571 @@
+m1 = 6, m2 = 8, r2 = 3, t2 = 21
+All blocks count = 64
+-------------------------------------
+d_code = [(2, 3), (6, 2)], [16384,3600,64], t_gar = 31, t_block = 1344, pk_size_MB = 7.031, 
+ sec_lvl_gar = 11.47, sec_lvl_prob = 504.96
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (5, 2), (6, 1)], [16384,3572,128], t_gar = 63, t_block = 1344, pk_size_MB = 6.977, 
+ sec_lvl_gar = 22.76, sec_lvl_prob = 500.48
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (5, 2), (6, 0)], [16384,3564,128], t_gar = 63, t_block = 1344, pk_size_MB = 6.961, 
+ sec_lvl_gar = 22.7, sec_lvl_prob = 499.2
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (5, 2)], [16384,3563,128], t_gar = 63, t_block = 1344, pk_size_MB = 6.959, 
+ sec_lvl_gar = 22.69, sec_lvl_prob = 499.04
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (4, 2), (6, 1)], [16384,3404,128], t_gar = 63, t_block = 1344, pk_size_MB = 6.648, 
+ sec_lvl_gar = 21.55, sec_lvl_prob = 473.81
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (4, 2), (5, 1), (6, 0)], [16384,3396,256], t_gar = 127, t_block = 1344, pk_size_MB = 6.633, 
+ sec_lvl_gar = 43.08, sec_lvl_prob = 472.55
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (4, 2), (5, 1)], [16384,3395,256], t_gar = 127, t_block = 1344, pk_size_MB = 6.631, 
+ sec_lvl_gar = 43.07, sec_lvl_prob = 472.39
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (4, 2), (6, 0)], [16384,3348,256], t_gar = 127, t_block = 1344, pk_size_MB = 6.539, 
+ sec_lvl_gar = 42.4, sec_lvl_prob = 465.0
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (4, 2), (5, 0)], [16384,3347,256], t_gar = 127, t_block = 1344, pk_size_MB = 6.537, 
+ sec_lvl_gar = 42.38, sec_lvl_prob = 464.84
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (4, 2)], [16384,3341,256], t_gar = 127, t_block = 1344, pk_size_MB = 6.525, 
+ sec_lvl_gar = 42.3, sec_lvl_prob = 463.9
+Min count blocks = 57
+-------------------------------------
+d_code = [(2, 3), (3, 2), (6, 1)], [16384,2984,128], t_gar = 63, t_block = 1344, pk_size_MB = 5.828, 
+ sec_lvl_gar = 18.6, sec_lvl_prob = 408.68
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (3, 2), (5, 1), (6, 0)], [16384,2976,256], t_gar = 127, t_block = 1344, pk_size_MB = 5.812, 
+ sec_lvl_gar = 37.18, sec_lvl_prob = 407.47
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (3, 2), (5, 1)], [16384,2975,256], t_gar = 127, t_block = 1344, pk_size_MB = 5.811, 
+ sec_lvl_gar = 37.16, sec_lvl_prob = 407.31
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (3, 2), (4, 1), (6, 0)], [16384,2928,256], t_gar = 127, t_block = 1344, pk_size_MB = 5.719, 
+ sec_lvl_gar = 36.51, sec_lvl_prob = 400.17
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (3, 2), (4, 1), (5, 0)], [16384,2927,512], t_gar = 255, t_block = 1344, pk_size_MB = 5.717, 
+ sec_lvl_gar = 73.32, sec_lvl_prob = 400.01
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (3, 2), (4, 1)], [16384,2921,512], t_gar = 255, t_block = 1344, pk_size_MB = 5.705, 
+ sec_lvl_gar = 73.15, sec_lvl_prob = 399.1
+Min count blocks = 57
+-------------------------------------
+d_code = [(2, 3), (3, 2), (6, 0)], [16384,2808,256], t_gar = 127, t_block = 1344, pk_size_MB = 5.484, 
+ sec_lvl_gar = 34.87, sec_lvl_prob = 382.03
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (3, 2), (5, 0)], [16384,2807,512], t_gar = 255, t_block = 1344, pk_size_MB = 5.482, 
+ sec_lvl_gar = 70.01, sec_lvl_prob = 381.88
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (3, 2), (4, 0)], [16384,2801,512], t_gar = 255, t_block = 1344, pk_size_MB = 5.471, 
+ sec_lvl_gar = 69.84, sec_lvl_prob = 380.98
+Min count blocks = 57
+-------------------------------------
+d_code = [(2, 3), (3, 2)], [16384,2786,512], t_gar = 255, t_block = 1344, pk_size_MB = 5.441, 
+ sec_lvl_gar = 69.43, sec_lvl_prob = 378.73
+Min count blocks = 42
+-------------------------------------
+d_code = [(1, 3), (6, 2)], [16384,2760,64], t_gar = 31, t_block = 1344, pk_size_MB = 5.391, 
+ sec_lvl_gar = 8.53, sec_lvl_prob = 374.83
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (5, 2), (6, 1)], [16384,2732,128], t_gar = 63, t_block = 1344, pk_size_MB = 5.336, 
+ sec_lvl_gar = 16.88, sec_lvl_prob = 370.64
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (5, 2), (6, 0)], [16384,2724,128], t_gar = 63, t_block = 1344, pk_size_MB = 5.32, 
+ sec_lvl_gar = 16.82, sec_lvl_prob = 369.44
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (5, 2)], [16384,2723,128], t_gar = 63, t_block = 1344, pk_size_MB = 5.318, 
+ sec_lvl_gar = 16.82, sec_lvl_prob = 369.29
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (4, 2), (6, 1)], [16384,2564,128], t_gar = 63, t_block = 1344, pk_size_MB = 5.008, 
+ sec_lvl_gar = 15.75, sec_lvl_prob = 345.68
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (4, 2), (5, 1), (6, 0)], [16384,2556,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.992, 
+ sec_lvl_gar = 31.45, sec_lvl_prob = 344.5
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (4, 2), (5, 1)], [16384,2555,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.99, 
+ sec_lvl_gar = 31.44, sec_lvl_prob = 344.35
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (4, 2), (6, 0)], [16384,2508,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.898, 
+ sec_lvl_gar = 30.81, sec_lvl_prob = 337.43
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (4, 2), (5, 0)], [16384,2507,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.896, 
+ sec_lvl_gar = 30.8, sec_lvl_prob = 337.29
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (4, 2)], [16384,2501,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.885, 
+ sec_lvl_gar = 30.72, sec_lvl_prob = 336.4
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (6, 2)], [16384,2424,64], t_gar = 31, t_block = 1344, pk_size_MB = 4.734, 
+ sec_lvl_gar = 7.4, sec_lvl_prob = 325.13
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (6, 1)], [16384,2424,128], t_gar = 63, t_block = 1344, pk_size_MB = 4.734, 
+ sec_lvl_gar = 14.81, sec_lvl_prob = 325.13
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (5, 1), (6, 0)], [16384,2416,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.719, 
+ sec_lvl_gar = 29.59, sec_lvl_prob = 323.96
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (5, 1)], [16384,2415,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.717, 
+ sec_lvl_gar = 29.57, sec_lvl_prob = 323.81
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (5, 2), (6, 1)], [16384,2396,128], t_gar = 63, t_block = 1344, pk_size_MB = 4.68, 
+ sec_lvl_gar = 14.63, sec_lvl_prob = 321.04
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (5, 2), (6, 0)], [16384,2388,128], t_gar = 63, t_block = 1344, pk_size_MB = 4.664, 
+ sec_lvl_gar = 14.58, sec_lvl_prob = 319.88
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (5, 2)], [16384,2387,128], t_gar = 63, t_block = 1344, pk_size_MB = 4.662, 
+ sec_lvl_gar = 14.57, sec_lvl_prob = 319.73
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (4, 1), (6, 0)], [16384,2368,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.625, 
+ sec_lvl_gar = 28.95, sec_lvl_prob = 316.97
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (4, 1), (5, 0)], [16384,2367,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.623, 
+ sec_lvl_gar = 58.12, sec_lvl_prob = 316.82
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (4, 1)], [16384,2361,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.611, 
+ sec_lvl_gar = 57.96, sec_lvl_prob = 315.95
+Min count blocks = 57
+-------------------------------------
+d_code = [(2, 3), (3, 1), (6, 0)], [16384,2248,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.391, 
+ sec_lvl_gar = 27.37, sec_lvl_prob = 299.59
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (3, 1), (5, 0)], [16384,2247,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.389, 
+ sec_lvl_gar = 54.94, sec_lvl_prob = 299.45
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (3, 1), (4, 0)], [16384,2241,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.377, 
+ sec_lvl_gar = 54.78, sec_lvl_prob = 298.58
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (4, 2), (6, 1)], [16384,2228,128], t_gar = 63, t_block = 1344, pk_size_MB = 4.352, 
+ sec_lvl_gar = 13.52, sec_lvl_prob = 296.71
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (3, 1)], [16384,2226,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.348, 
+ sec_lvl_gar = 54.39, sec_lvl_prob = 296.42
+Min count blocks = 42
+-------------------------------------
+d_code = [(0, 3), (4, 2), (5, 1), (6, 0)], [16384,2220,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.336, 
+ sec_lvl_gar = 27.0, sec_lvl_prob = 295.56
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (4, 2), (5, 1)], [16384,2219,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.334, 
+ sec_lvl_gar = 26.99, sec_lvl_prob = 295.42
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (4, 2), (6, 0)], [16384,2172,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.242, 
+ sec_lvl_gar = 26.37, sec_lvl_prob = 288.67
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (4, 2), (5, 0)], [16384,2171,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.24, 
+ sec_lvl_gar = 26.36, sec_lvl_prob = 288.53
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (4, 2)], [16384,2165,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.229, 
+ sec_lvl_gar = 26.28, sec_lvl_prob = 287.67
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (3, 2), (6, 1)], [16384,2144,128], t_gar = 63, t_block = 1344, pk_size_MB = 4.188, 
+ sec_lvl_gar = 12.98, sec_lvl_prob = 284.66
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (3, 2), (5, 1), (6, 0)], [16384,2136,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.172, 
+ sec_lvl_gar = 25.9, sec_lvl_prob = 283.52
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (3, 2), (5, 1)], [16384,2135,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.17, 
+ sec_lvl_gar = 25.89, sec_lvl_prob = 283.37
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (6, 0)], [16384,2088,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.078, 
+ sec_lvl_gar = 25.28, sec_lvl_prob = 276.67
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (3, 2), (4, 1), (6, 0)], [16384,2088,256], t_gar = 127, t_block = 1344, pk_size_MB = 4.078, 
+ sec_lvl_gar = 25.28, sec_lvl_prob = 276.67
+Min count blocks = 64
+-------------------------------------
+d_code = [(2, 3), (5, 0)], [16384,2087,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.076, 
+ sec_lvl_gar = 50.75, sec_lvl_prob = 276.53
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (3, 2), (4, 1), (5, 0)], [16384,2087,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.076, 
+ sec_lvl_gar = 50.75, sec_lvl_prob = 276.53
+Min count blocks = 63
+-------------------------------------
+d_code = [(2, 3), (4, 0)], [16384,2081,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.064, 
+ sec_lvl_gar = 50.59, sec_lvl_prob = 275.67
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (3, 2), (4, 1)], [16384,2081,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.064, 
+ sec_lvl_gar = 50.59, sec_lvl_prob = 275.67
+Min count blocks = 57
+-------------------------------------
+d_code = [(2, 3), (3, 0)], [16384,2066,512], t_gar = 255, t_block = 1344, pk_size_MB = 4.035, 
+ sec_lvl_gar = 50.2, sec_lvl_prob = 273.54
+Min count blocks = 42
+-------------------------------------
+d_code = [(2, 3)], [16384,2046,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.996, 
+ sec_lvl_gar = 49.68, sec_lvl_prob = 270.7
+Min count blocks = -1
+-------------------------------------
+d_code = [(1, 3), (3, 2), (6, 0)], [16384,1968,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.844, 
+ sec_lvl_gar = 23.73, sec_lvl_prob = 259.65
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (3, 2), (5, 0)], [16384,1967,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.842, 
+ sec_lvl_gar = 47.63, sec_lvl_prob = 259.51
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (3, 2), (4, 0)], [16384,1961,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.83, 
+ sec_lvl_gar = 47.48, sec_lvl_prob = 258.66
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (3, 2)], [16384,1946,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.801, 
+ sec_lvl_gar = 47.09, sec_lvl_prob = 256.55
+Min count blocks = 42
+-------------------------------------
+d_code = [(0, 3), (3, 2), (6, 1)], [16384,1808,128], t_gar = 63, t_block = 1344, pk_size_MB = 3.531, 
+ sec_lvl_gar = 10.82, sec_lvl_prob = 237.19
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (3, 2), (5, 1), (6, 0)], [16384,1800,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.516, 
+ sec_lvl_gar = 21.58, sec_lvl_prob = 236.08
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (3, 2), (5, 1)], [16384,1799,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.514, 
+ sec_lvl_gar = 21.57, sec_lvl_prob = 235.94
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (3, 2), (4, 1), (6, 0)], [16384,1752,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.422, 
+ sec_lvl_gar = 20.97, sec_lvl_prob = 229.39
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (3, 2), (4, 1), (5, 0)], [16384,1751,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.42, 
+ sec_lvl_gar = 42.09, sec_lvl_prob = 229.25
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (3, 2), (4, 1)], [16384,1745,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.408, 
+ sec_lvl_gar = 41.94, sec_lvl_prob = 228.42
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (3, 2), (6, 0)], [16384,1632,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.188, 
+ sec_lvl_gar = 19.46, sec_lvl_prob = 212.79
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (3, 2), (5, 0)], [16384,1631,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.186, 
+ sec_lvl_gar = 39.05, sec_lvl_prob = 212.65
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (3, 2), (4, 0)], [16384,1625,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.174, 
+ sec_lvl_gar = 38.9, sec_lvl_prob = 211.82
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (3, 2)], [16384,1610,512], t_gar = 255, t_block = 1344, pk_size_MB = 3.145, 
+ sec_lvl_gar = 38.52, sec_lvl_prob = 209.76
+Min count blocks = 42
+-------------------------------------
+d_code = [(1, 3), (2, 2), (6, 1)], [16384,1584,128], t_gar = 63, t_block = 1344, pk_size_MB = 3.094, 
+ sec_lvl_gar = 9.41, sec_lvl_prob = 206.18
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 2), (5, 1), (6, 0)], [16384,1576,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.078, 
+ sec_lvl_gar = 18.75, sec_lvl_prob = 205.08
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 2), (5, 1)], [16384,1575,256], t_gar = 127, t_block = 1344, pk_size_MB = 3.076, 
+ sec_lvl_gar = 18.74, sec_lvl_prob = 204.95
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 2), (4, 1), (6, 0)], [16384,1528,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.984, 
+ sec_lvl_gar = 18.15, sec_lvl_prob = 198.51
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 2), (4, 1), (5, 0)], [16384,1527,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.982, 
+ sec_lvl_gar = 36.43, sec_lvl_prob = 198.37
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 2), (4, 1)], [16384,1521,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.971, 
+ sec_lvl_gar = 36.28, sec_lvl_prob = 197.55
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (2, 2), (3, 1), (6, 0)], [16384,1408,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.75, 
+ sec_lvl_gar = 16.66, sec_lvl_prob = 182.16
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 2), (3, 1), (5, 0)], [16384,1407,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.748, 
+ sec_lvl_gar = 33.43, sec_lvl_prob = 182.02
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 2), (3, 1), (4, 0)], [16384,1401,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.736, 
+ sec_lvl_gar = 67.13, sec_lvl_prob = 181.21
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (2, 2), (3, 1)], [16384,1386,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.707, 
+ sec_lvl_gar = 66.38, sec_lvl_prob = 179.18
+Min count blocks = 42
+-------------------------------------
+d_code = [(0, 3), (2, 2), (6, 1)], [16384,1248,128], t_gar = 63, t_block = 1344, pk_size_MB = 2.438, 
+ sec_lvl_gar = 7.33, sec_lvl_prob = 160.58
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 2), (6, 0)], [16384,1248,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.438, 
+ sec_lvl_gar = 14.69, sec_lvl_prob = 160.58
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 2), (5, 0)], [16384,1247,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.436, 
+ sec_lvl_gar = 29.48, sec_lvl_prob = 160.44
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 2), (4, 0)], [16384,1241,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.424, 
+ sec_lvl_gar = 59.15, sec_lvl_prob = 159.64
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (2, 2), (5, 1), (6, 0)], [16384,1240,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.422, 
+ sec_lvl_gar = 14.59, sec_lvl_prob = 159.5
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (2, 2), (5, 1)], [16384,1239,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.42, 
+ sec_lvl_gar = 14.58, sec_lvl_prob = 159.37
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 2), (3, 0)], [16384,1226,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.395, 
+ sec_lvl_gar = 58.4, sec_lvl_prob = 157.63
+Min count blocks = 42
+-------------------------------------
+d_code = [(1, 3), (2, 2)], [16384,1206,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.355, 
+ sec_lvl_gar = 57.41, sec_lvl_prob = 154.95
+Min count blocks = 22
+-------------------------------------
+d_code = [(0, 3), (2, 2), (4, 1), (6, 0)], [16384,1192,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.328, 
+ sec_lvl_gar = 14.01, sec_lvl_prob = 153.08
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (2, 2), (4, 1), (5, 0)], [16384,1191,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.326, 
+ sec_lvl_gar = 28.1, sec_lvl_prob = 152.94
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (2, 2), (4, 1)], [16384,1185,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.314, 
+ sec_lvl_gar = 27.95, sec_lvl_prob = 152.14
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (6, 1)], [16384,1164,128], t_gar = 63, t_block = 1344, pk_size_MB = 2.273, 
+ sec_lvl_gar = 6.82, sec_lvl_prob = 149.34
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (5, 1), (6, 0)], [16384,1156,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.258, 
+ sec_lvl_gar = 13.57, sec_lvl_prob = 148.27
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (5, 1)], [16384,1155,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.256, 
+ sec_lvl_gar = 13.55, sec_lvl_prob = 148.14
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (4, 1), (6, 0)], [16384,1108,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.164, 
+ sec_lvl_gar = 12.98, sec_lvl_prob = 141.88
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (4, 1), (5, 0)], [16384,1107,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.162, 
+ sec_lvl_gar = 26.05, sec_lvl_prob = 141.75
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (4, 1)], [16384,1101,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.15, 
+ sec_lvl_gar = 25.9, sec_lvl_prob = 140.96
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (2, 2), (3, 1), (6, 0)], [16384,1072,256], t_gar = 127, t_block = 1344, pk_size_MB = 2.094, 
+ sec_lvl_gar = 12.55, sec_lvl_prob = 137.11
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (2, 2), (3, 1), (5, 0)], [16384,1071,512], t_gar = 255, t_block = 1344, pk_size_MB = 2.092, 
+ sec_lvl_gar = 25.17, sec_lvl_prob = 136.98
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (2, 2), (3, 1), (4, 0)], [16384,1065,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.08, 
+ sec_lvl_gar = 50.46, sec_lvl_prob = 136.18
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (2, 2), (3, 1)], [16384,1050,1024], t_gar = 511, t_block = 1344, pk_size_MB = 2.051, 
+ sec_lvl_gar = 49.73, sec_lvl_prob = 134.19
+Min count blocks = 42
+-------------------------------------
+d_code = [(1, 3), (3, 1), (6, 0)], [16384,988,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.93, 
+ sec_lvl_gar = 11.53, sec_lvl_prob = 126.01
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (3, 1), (5, 0)], [16384,987,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.928, 
+ sec_lvl_gar = 23.13, sec_lvl_prob = 125.88
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (3, 1), (4, 0)], [16384,981,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.916, 
+ sec_lvl_gar = 46.36, sec_lvl_prob = 125.08
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (3, 1)], [16384,966,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.887, 
+ sec_lvl_gar = 45.63, sec_lvl_prob = 123.11
+Min count blocks = 42
+-------------------------------------
+d_code = [(0, 3), (2, 2), (6, 0)], [16384,912,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.781, 
+ sec_lvl_gar = 10.62, sec_lvl_prob = 116.02
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (2, 2), (5, 0)], [16384,911,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.779, 
+ sec_lvl_gar = 21.3, sec_lvl_prob = 115.89
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (2, 2), (4, 0)], [16384,905,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.768, 
+ sec_lvl_gar = 42.66, sec_lvl_prob = 115.1
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (2, 2), (3, 0)], [16384,890,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.738, 
+ sec_lvl_gar = 41.93, sec_lvl_prob = 113.14
+Min count blocks = 42
+-------------------------------------
+d_code = [(0, 3), (2, 2)], [16384,870,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.699, 
+ sec_lvl_gar = 40.96, sec_lvl_prob = 110.52
+Min count blocks = 22
+-------------------------------------
+d_code = [(0, 3), (1, 2), (6, 1)], [16384,828,128], t_gar = 63, t_block = 1344, pk_size_MB = 1.617, 
+ sec_lvl_gar = 4.8, sec_lvl_prob = 105.04
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 1), (6, 0)], [16384,828,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.617, 
+ sec_lvl_gar = 9.61, sec_lvl_prob = 105.04
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (2, 1), (5, 0)], [16384,827,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.615, 
+ sec_lvl_gar = 19.28, sec_lvl_prob = 104.91
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 1), (4, 0)], [16384,821,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.604, 
+ sec_lvl_gar = 38.59, sec_lvl_prob = 104.12
+Min count blocks = 57
+-------------------------------------
+d_code = [(0, 3), (1, 2), (5, 1), (6, 0)], [16384,820,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.602, 
+ sec_lvl_gar = 9.52, sec_lvl_prob = 103.99
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (1, 2), (5, 1)], [16384,819,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.6, 
+ sec_lvl_gar = 9.51, sec_lvl_prob = 103.86
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (2, 1), (3, 0)], [16384,806,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.574, 
+ sec_lvl_gar = 37.87, sec_lvl_prob = 102.17
+Min count blocks = 42
+-------------------------------------
+d_code = [(1, 3), (2, 1)], [16384,786,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.535, 
+ sec_lvl_gar = 36.91, sec_lvl_prob = 99.57
+Min count blocks = 22
+-------------------------------------
+d_code = [(1, 2), (6, 1)], [16384,772,128], t_gar = 63, t_block = 1344, pk_size_MB = 1.508, 
+ sec_lvl_gar = 4.47, sec_lvl_prob = 97.75
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (1, 2), (4, 1), (6, 0)], [16384,772,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.508, 
+ sec_lvl_gar = 8.95, sec_lvl_prob = 97.75
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (1, 2), (4, 1), (5, 0)], [16384,771,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.506, 
+ sec_lvl_gar = 17.95, sec_lvl_prob = 97.62
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (1, 2), (4, 1)], [16384,765,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.494, 
+ sec_lvl_gar = 17.8, sec_lvl_prob = 96.84
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 2), (5, 1), (6, 0)], [16384,764,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.492, 
+ sec_lvl_gar = 8.85, sec_lvl_prob = 96.71
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 2), (5, 1)], [16384,763,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.49, 
+ sec_lvl_gar = 8.84, sec_lvl_prob = 96.58
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 2), (4, 1), (6, 0)], [16384,716,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.398, 
+ sec_lvl_gar = 8.28, sec_lvl_prob = 90.49
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 2), (4, 1), (5, 0)], [16384,715,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.396, 
+ sec_lvl_gar = 16.61, sec_lvl_prob = 90.36
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 2), (4, 1)], [16384,709,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.385, 
+ sec_lvl_gar = 16.47, sec_lvl_prob = 89.59
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (6, 0)], [16384,708,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.383, 
+ sec_lvl_gar = 8.19, sec_lvl_prob = 89.46
+Min count blocks = 64
+-------------------------------------
+d_code = [(1, 3), (5, 0)], [16384,707,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.381, 
+ sec_lvl_gar = 16.42, sec_lvl_prob = 89.33
+Min count blocks = 63
+-------------------------------------
+d_code = [(1, 3), (4, 0)], [16384,701,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.369, 
+ sec_lvl_gar = 32.83, sec_lvl_prob = 88.55
+Min count blocks = 57
+-------------------------------------
+d_code = [(1, 3), (3, 0)], [16384,686,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.34, 
+ sec_lvl_gar = 32.11, sec_lvl_prob = 86.61
+Min count blocks = 42
+-------------------------------------
+d_code = [(1, 3), (2, 0)], [16384,666,1024], t_gar = 511, t_block = 1344, pk_size_MB = 1.301, 
+ sec_lvl_gar = 31.15, sec_lvl_prob = 84.03
+Min count blocks = 22
+-------------------------------------
+d_code = [(0, 3), (6, 1)], [16384,660,128], t_gar = 63, t_block = 1344, pk_size_MB = 1.289, 
+ sec_lvl_gar = 3.8, sec_lvl_prob = 83.26
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (5, 1), (6, 0)], [16384,652,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.273, 
+ sec_lvl_gar = 7.53, sec_lvl_prob = 82.23
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (1, 2), (3, 1), (6, 0)], [16384,652,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.273, 
+ sec_lvl_gar = 7.53, sec_lvl_prob = 82.23
+Min count blocks = 64
+-------------------------------------
+d_code = [(0, 3), (5, 1)], [16384,651,256], t_gar = 127, t_block = 1344, pk_size_MB = 1.271, 
+ sec_lvl_gar = 7.52, sec_lvl_prob = 82.1
+Min count blocks = 63
+-------------------------------------
+d_code = [(0, 3), (1, 2), (3, 1), (5, 0)], [16384,651,512], t_gar = 255, t_block = 1344, pk_size_MB = 1.271, 
+ sec_lvl_gar = 15.09, sec_lvl_prob = 82.1
+Min count blocks = 63
+-------------------------------------
